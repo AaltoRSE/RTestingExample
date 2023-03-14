@@ -7,7 +7,7 @@ Authors@R:
 Author: Thomas Pfau
 Maintainer: Thomas Pfau <none@example.com>
 Description: Just a few functions that are ebing tested.
-License: use_mit_license()
+License: MIT
 Encoding: UTF-8
 Depends: testthat
 Roxygen: list(markdown = TRUE)
